@@ -13,7 +13,7 @@ class Solution:
 
     def recursion(self, sub, nums, startIndex, result):
         """
-        :type sub: List[List[int]]
+        :type sub: List[int]
         :type nums: List[int]
         :type startIndex: int
         :type result: List[List[int]]
