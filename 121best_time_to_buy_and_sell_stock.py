@@ -6,8 +6,7 @@ class Solution:
         """
         if not prices:
             return 0
-        buy = prices[0]
-        profit = 0
+        buy, profit = prices[0], 0
         for i in range(len(prices)):
             buy = min(buy, prices[i])
             profit = max(profit, prices[i]-buy)
