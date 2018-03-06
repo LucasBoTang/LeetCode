@@ -12,7 +12,6 @@ class Solution(object):
         for j, k in edges:
             graph[j].add(k)
             graph[k].add(j)
-        print(graph)
 
         queue = [0]
         hash = {0}
