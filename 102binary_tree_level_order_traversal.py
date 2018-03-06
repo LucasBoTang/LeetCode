@@ -16,8 +16,8 @@ class Solution(object):
             return result
         queue = [root]
         while queue:
-            result.append([node.val for node in queue])
             new_queue = []
+            result.append([node.val for node in queue])
             for node in queue:
                 if node.left:
                     new_queue.append(node.left)
