@@ -11,13 +11,13 @@ class Solution:
         self.recursion([], nums, 0, result)
         return result
 
-    def recursion(self, sub, nums, startIndex, result):
+    def recursion(self, sub, nums, startindex, result):
         """
         :type sub: List[int]
         :type nums: List[int]
-        :type startIndex: int
+        :type startindex: int
         :type result: List[List[int]]
         """
         result.append(sub)
-        for i in range(startIndex, len(nums)):
+        for i in range(startindex, len(nums)):
             self.recursion(sub+[nums[i]], nums, i+1, result)
