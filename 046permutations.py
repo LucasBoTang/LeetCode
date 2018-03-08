@@ -16,6 +16,7 @@ class Solution:
         :type target: int
         :type permutation: List[int]
         :type result: List[List[int]]
+        :rtype: void
         """
         if len(nums) == len(permutation):
             result.append(permutation)

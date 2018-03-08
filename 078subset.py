@@ -17,6 +17,7 @@ class Solution:
         :type nums: List[int]
         :type startindex: int
         :type result: List[List[int]]
+        :rtype: void
         """
         result.append(sub)
         for i in range(startindex, len(nums)):

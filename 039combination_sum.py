@@ -19,6 +19,7 @@ class Solution:
         :type combination: List[int]
         :type startindex: int
         :type result: List[List[int]]
+        :rtype: void
         """
         if target == 0:
             result.append(combination)
