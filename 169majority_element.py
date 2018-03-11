@@ -4,6 +4,7 @@ class Solution:
         :type nums: List[int]
         :rtype: int
         """
+        # return sorted(num)[len(num)/2]
         n = len(nums)
         hash = {}
         for num in nums:
