@@ -18,5 +18,5 @@ class Solution:
                     temp = num[j]
                     count = 1
             num = cur + str(count) + temp
-            i +=1
+            i += 1
         return num
