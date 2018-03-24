@@ -4,9 +4,8 @@ class Solution:
         :type n: int
         :rtype: str
         """
-        i = 1
         num = '1'
-        while i != n:
+        for _ in range(n-1):
             temp = num[0]
             count = 0
             cur = ''
@@ -18,5 +17,4 @@ class Solution:
                     temp = num[j]
                     count = 1
             num = cur + str(count) + temp
-            i += 1
         return num
