@@ -11,8 +11,8 @@ class Solution:
         :type l2: ListNode
         :rtype: ListNode
         """
-        nl = ListNode(0)
-        cur = nl
+        dummy = ListNode('i')
+        cur = dummy
         while l1 and l2:
             if l1.val <= l2.val:
                 cur.next = l1
@@ -22,4 +22,4 @@ class Solution:
                 l2 = l2.next
             cur = cur.next
         cur.next = l1 or l2
-        return nl.next
+        return dummy.next
