@@ -5,7 +5,7 @@ class Solution:
         :type magazine: str
         :rtype: bool
         """
-        for alpha in set(ransomNote):
-            if ransomNote.count(alpha) > magazine.count(alpha):
+        for letter in set(ransomNote):
+            if ransomNote.count(letter) > magazine.count(letter):
                 return False
         return True
