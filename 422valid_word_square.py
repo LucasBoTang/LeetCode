@@ -11,6 +11,8 @@ class Solution:
             for j in range(n):
                 if i < len(words[j]):
                     word2 += words[j][i]
+                else:
+                    break
             if word1 != word2:
                 return False
         return True
