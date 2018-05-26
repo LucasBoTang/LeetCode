@@ -6,26 +6,18 @@
 #         self.right = None
 
 class Solution:
-    def findMode(self, root):
+    def getMinimumDifference(self, root):
         """
         :type root: TreeNode
-        :rtype: List[int]
+        :rtype: int
         """
-        result = []
-        cur_count = max_count = 0
-        cur_num = ''
-        for num in self.traverseInOrder(root):
-            if num == cur_num:
-                cur_count += 1
-            else:
-                cur_count = 1
-                cur_num = num
-            if cur_count > max_count:
-                max_count = cur_count
-                result = [num]
-            elif cur_count == max_count:
-                result.append(num)
+        num_lst = self.traverseInOrder(root)
+        result = float('inf')
+        for i in range(1, len(num_lst)):
+            result = min(result, abs(num_lst[i]-num_lst[i-1]))
         return result
+
+
 
     def traverseInOrder(self, root):
         """
