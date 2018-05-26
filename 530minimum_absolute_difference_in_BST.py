@@ -14,7 +14,7 @@ class Solution:
         num_lst = self.traverseInOrder(root)
         result = float('inf')
         for i in range(1, len(num_lst)):
-            result = min(result, abs(num_lst[i]-num_lst[i-1]))
+            result = min(result, num_lst[i]-num_lst[i-1])
         return result
 
 
