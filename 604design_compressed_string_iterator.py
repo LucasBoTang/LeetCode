@@ -40,7 +40,6 @@ class StringIterator:
                 self.index = (i, j)
             else:
                 self.index = (i+1, 0)
-            print(self.index)
 
         else:
             next_letter = ' '
