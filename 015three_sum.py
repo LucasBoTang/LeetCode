@@ -15,11 +15,11 @@ class Solution:
             start, end = i + 1, len(nums) - 1
 
             while start < end:
-                tree_sum = nums[i] + nums[start] + nums[end]
+                three_sum = nums[i] + nums[start] + nums[end]
 
-                if tree_sum < 0:
+                if three_sum < 0:
                     start += 1
-                elif tree_sum > 0:
+                elif three_sum > 0:
                     end -= 1
                 else:
                     result.append((nums[i], nums[start], nums[end]))
