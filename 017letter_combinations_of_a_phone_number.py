@@ -16,6 +16,12 @@ class Solution:
 
 
     def dfs(self, digits, letters, maps, result):
+        """
+        :type digits: str
+        :type letters: str
+        :type maps: dict
+        :rtype: List[str]
+        """
 
         if not digits:
             result.append(letters)
