@@ -27,6 +27,7 @@ class Solution:
 
         if len(permutation) == length:
             result.append(permutation)
+            return
 
         for num, count in num_count.items():
             if not count:

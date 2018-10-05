@@ -4,9 +4,11 @@ class Solution:
         :type nums: List[int]
         :rtype: List[List[int]]
         """
+
         result = []
         if not nums:
             return result
+
         self.recursion(nums, [], result)
         return result
 
@@ -20,6 +22,8 @@ class Solution:
         """
         if len(nums) == len(permutation):
             result.append(permutation)
+            return
+
         for i in range(0, len(nums)):
             if nums[i] in permutation:
                 continue
