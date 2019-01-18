@@ -2,8 +2,8 @@
 
 My Python solutions for LeetCode:
 
-|NO.|Title|Solution|Difficulty|
-|---|-----|--------|----------|
+|#|Title|Solution|Difficulty|
+|-|-----|--------|----------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/001two_sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/002add_two_numbers.py)|Medium|
 |3|[Longest Substring Without Repeating CharactersLongest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/003longest_substring_without_repeating_characters.py)|Medium|
@@ -27,3 +27,30 @@ My Python solutions for LeetCode:
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/022generate_parentheses.py)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/024swap_nodes_in_pairs.py)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/025reverse_nodes_in_k_group.py)|Hard|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/026remove_duplicates_from_sorted_array.py)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/027remove_element.py)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/028implement_strStr().py)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/029divide_two_integers.py)|Medium|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/031next_permutation.py)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/033search_in_rotated_sorted_array.py)|Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/034find_first_and_last_position_of_element_in_sorted_array.py)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/035search_insert_position.py)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/036valid_sudoku.py)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/038count_and_say.py)|Easy|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/039combination_sum.py)|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/040combination_sum2.py)|Medium|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/043multiply_strings.py)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/046permutations.py)|Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/047permutations2.py)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/048rotate_image.py)|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/049group_anagrams.py)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/053maximum_subarray.py)|Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/058length_of_last_word.py)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/066plus_one.py)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/067add_binary.py)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/069sqrt(x).py)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/070climbing_stairs.py)|Easy|
+|78|[Subsets](https://leetcode.com/problems/subsets)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/078subset.py)|Medium|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/083remove_duplicates_from_sorted_list.py)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/088merge_sorted_array.py)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/100same_tree.py)|Easy|
