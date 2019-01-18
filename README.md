@@ -14,4 +14,8 @@ My Python solutions for LeetCode
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/007reverse_integer.py)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/008string_to_integer(atoi).py)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/009palindrome_number.py)|Easy|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/011container_with_most_water.py)|Easy|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/011container_with_most_water.py)|Medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/012integer_to_roman.py)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/013roman_to_integer.py)|Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/014longest_common_prefix.py)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/005longest_palindromic_substring.py)|Medium|
