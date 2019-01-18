@@ -1,6 +1,6 @@
 # LeetCode
 
-My Python solutions for LeetCode 
+My Python solutions for LeetCode:
 
 |NO.|Title|Solution|Difficulty|
 |---|-----|--------|----------|
