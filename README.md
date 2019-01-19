@@ -71,21 +71,21 @@ My Python solutions for LeetCode:
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/136single_number.py)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/141linked_list_cycle.py)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/144binary_tree_preorder_traversal.py)|Medium|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/155min_stack.py)|Easy|
+|157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/157read_n_characters_given_read4.py)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/160intersection_of_two_linked_lists.py)|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/167two_sum2_input_array_is_sorted.py)|Easy|
+|168|[	Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/168excel_sheet_column_title.py)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/169majority_element.py)|Easy|
+|170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/170two_sum3_data_structure_design.py)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/171excel_sheet_column_number.py)|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/172factorial_trailing_zeroes.py)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/175combine_two_tables.sql)|Easy|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/176second_highest_salary.sql)|Easy|
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/181employees_earning_more_than_their_managers.sql)|Easy|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/182duplicate_emails.sql)|Easy|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/183customers_who_never_order.sql)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/189rotate_array.py)|Easy|
 ||[]()|[Python]()|Easy|
 ||[]()|[Python]()|Easy|
 ||[]()|[Python]()|Easy|
