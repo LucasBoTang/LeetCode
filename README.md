@@ -86,21 +86,71 @@ My solutions for LeetCode:
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/182duplicate_emails.sql)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/183customers_who_never_order.sql)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/189rotate_array.py)|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
-||[]()|[Python]()|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/190reverse_bits.py)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/191number_of_1_bits.py)|Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/196delete_duplicate_emails.sql)|Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/197rising_temperature.sql)|Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/198house_robber.py)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/202happy_number.py)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/203remove_linked_list_elements.py)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/204count_primes.py)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/205isomorphic_strings.py)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/206reverse_linked_list.py)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/217contains_duplicate.py)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/219contains_duplicate2.py)|Easy|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/225implement_stack_using_queues.py)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/226Invert_binary_tree.py)|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/231power_of_two.py)|Easy|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/232implement_queue_using_stacks.py)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/234palindrome_linked_list.py)|Easy|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/235lowest_common_ancestor_of_a_binary_search_tree.py)|Easy|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/237delete_node_in_a_linked_list.py)|Easy|
+|242|[Valid Anagram ](https://leetcode.com/problems/valid-anagram)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/242valid_anagram.py)|Easy|
+|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/243shortest_word_distance.py)|Easy|
+|246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/246strobogrammatic_number.py)|Easy|
+|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/252meeting_rooms.py)|Easy|
+|256|[Paint House](https://leetcode.com/problems/paint-house)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/256paint_house.py)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/257binary_tree_paths.py)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/258add_digits.py)|Easy|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/261graph_valid_tree.py)|Medium|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/263ugly_number.py)|Easy|
+|266|[Palindrome Permutation ](https://leetcode.com/problems/palindrome-permutation)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/266palindrome_permutation.py)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/268missing_number.py)|Easy|
+|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/270closest_binary_search_tree_value.py)|Easy|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/276paint_fence.py)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/278first_bad_version.py)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/283move_zeroes.py)|Easy|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/290word_pattern.py)|Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/292nim_game.py)|Easy|
+|293|[Flip Game](https://leetcode.com/problems/flip-game)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/293flip_game.py)|Easy|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/303range_sum_query-immutable.py)|Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/326power_of_three.py)|Easy|
+|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/339nested_list_weight_sum.py)|Easy|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/342power_of_four.py)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/344reverse_string.py)|Easy|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/345reverse_vowels_of_a_string.py)|Easy|
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/346moving_average_from_data_stream.py)|Easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/349intersection_of_two_arrays.py)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/350intersection_of_two_arrays2.py)|Easy|
+|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/359logger_rate_limiter.py)|Easy|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/367valid_perfect_square.py)|Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/371sum_of_two_integers.py)|Easy|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/374guess_number_higher_or_lower.py)|Easy|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/383ransom_note.py)|Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/387first_unique_character_in_a_string.py)|Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/389find_the_difference.py)|Easy|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/400nth_digit.py)|Easy|
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/401binary_watch.py)|Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/404sum_of_left_leaves.py)|Easy|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/405convert_a_number_to_hexadecimal.py)|Easy|
+|408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/408valid_word_abbreviation.py)|Easy|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/409longest_palindrome.py)|Easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/412fizz_buzz.py)|Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/414third_xaximum_number.py)|Easy|
+|415|[Add Strings](https://leetcode.com/problems/add-strings)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/415add_strings.py)|Easy|
+|422|[Valid Word Square](https://leetcode.com/problems/valid-word-square)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/422valid_word_square.py)|Easy|
+|427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/427construct_quad_tree.py)|Easy|
+|429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/429n-ary_tree_level_order_traversal.py)|Easy|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/434number_of_segments_in_a_string.py)|Easy|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/437path_sum3.py)|Easy|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/438find_all_anagrams_in_a_string.py)|Easy|
