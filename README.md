@@ -216,3 +216,23 @@ My solutions for LeetCode:
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/620not_boring_movies.sql)|Easy|
 |624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/624maximum_distance_in_arrays.py)|Easy|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/627swap_salary.sql)|Easy|
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/628maximum_product_of_three_numbers.py)|Easy|
+|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/633sum_of_square_numbers.py)|Easy|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/637average_of_levels_in_binary_tree.py)|Easy|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/643maximum_average_subarray1.py)|Easy|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/645set_mismatch.py)|Easy|
+|653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/653two_sum5_input_is_a_bst.py)|Easy|
+|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/657judge_route_circle.py)|Easy|
+|661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/661image_smoother.py)|Easy|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/665non-decreasing_array.py)|Easy|
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/669trim_a_binary_search_tree.py)|Easy|
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/671second_minimum_node_in_a_binary_tree.py)|Easy|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/674longest_continuous_increasing_subsequence.py)|Easy|
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/680valid_palindrome2.py)|Easy|
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/682baseball_game.py)|Easy|
+|686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/686repeated_string_match.py)|Easy|
+|687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/687longest_univalue_path.py)|Easy|
+|690|[Employee Importance](https://leetcode.com/problems/employee-importance)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/690employee_importance.py)|Easy|
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/693binary_number_with_alternating_bits.py)|Easy|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/695max_area_of_island.py)|Easy|
+|696|[Count Binary Substrings ](https://leetcode.com/problems/count-binary-substrings)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/696count_binary_substrings.py)|Easy|
