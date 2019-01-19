@@ -154,3 +154,24 @@ My solutions for LeetCode:
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/434number_of_segments_in_a_string.py)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/437path_sum3.py)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/438find_all_anagrams_in_a_string.py)|Easy|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/441arranging_coins.py)|Easy|
+|443|[String Compression](https://leetcode.com/problems/string-compression)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/443string_compression.py)|Easy|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/447number_of_boomerangs.py)|Easy|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/448find_all_numbers_disappeared_in_an_array.py)|Easy|
+|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/453minimum_moves_to_equal_array_elements.py)|Easy|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/455assign_cookies.py)|Easy|
+|458|[Poor Pigs](https://leetcode.com/problems/poor-pigs)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/458poor_pigs.py)|Easy|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/459repeated_substring_pattern.py)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/461hamming_distance.py)|Easy|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/463island_perimeter.py)|Easy|
+|475|[Heaters](https://leetcode.com/problems/heaters)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/475heaters.py)|Easy|
+|476|[Number Complement](https://leetcode.com/problems/number-complement)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/476number_complement.py)|Easy|
+|479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/479largest_palindrome_product.py)|Easy|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/482license_key_formatting.py)|Easy|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/485max_consecutive_ones.py)|Easy|
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/492construct_the_rectangle.py)|Easy|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/496next_greater_element1.py)|Easy|
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/500keyboard_row.py)|Easy|
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/501find_mode_in_binary_search_tree.py)|Easy|
+|504|[Base 7](https://leetcode.com/problems/base-7)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/504base_7.py)|Easy|
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/506relative_ranks.py)|Easy|
