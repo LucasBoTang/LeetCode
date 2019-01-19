@@ -54,3 +54,53 @@ My Python solutions for LeetCode:
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/083remove_duplicates_from_sorted_list.py)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/088merge_sorted_array.py)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/100same_tree.py)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/101symmetric_tree.py)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/102binary_tree_level_order_traversal.py)|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/104maximum_depth_of_binary_tree.py)|Easy|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/107binary_tree_level_order_traversal2.py)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/108convert_sorted_array_to_binary_search_tree.py)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/110balanced_binary_tree.py)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/111minimum_depth_of_binary_tree.py)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/112path_sum.py)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/118pascal's_triangle.py)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/119pascal's_triangle2.py)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/120triangle.py)|Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/121best_time_to_buy_and_sell_stock.py)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/122best_time_to_buy_and_sell_stock2.py)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/125valid_palindrome.py)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/136single_number.py)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/141linked_list_cycle.py)|Easy|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/144binary_tree_preorder_traversal.py)|Medium|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
+||[]()|[Python]()|Easy|
