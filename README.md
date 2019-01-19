@@ -175,3 +175,44 @@ My solutions for LeetCode:
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/501find_mode_in_binary_search_tree.py)|Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/504base_7.py)|Easy|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/506relative_ranks.py)|Easy|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/507perfect_number.py)|Easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/520detect_capital.py)|Easy|
+|521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/521longest_uncommon_subsequence1.py)|Easy|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/530minimum_absolute_difference_in_BST.py)|Easy|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/532k-diff_pairs_in_an_array.py)|Easy|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/538convert_bst_to_greater_tree.py)|Easy|
+|541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/541reverse_string2.py)|Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/543diameter_of_binary_tree.py)|Easy|
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/551student_attendance_record1.py)|Easy|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/557reverse_words_in_a_string3.py)|Easy|
+|558|[Quad Tree Intersection](https://leetcode.com/problems/quad-tree-intersection)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/558quad_tree_intersection.py)|Easy|
+|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/559maximum_depth_of_n-ary_tree.py)|Easy|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/561array_partition1.py)|Easy|
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/563binary_tree_tilt.py)|Easy|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/566reshape_the_matrix.py)|Easy|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/572subtree_of_another_tree.py)|Easy|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/575distribute_candies.py)|Easy|
+|577|[Employee Bonus](https://leetcode.com/problems/employee-bonus)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/577employee_bonus.sql)|Easy|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/581shortest_unsorted_continuous_subarray.py)|Easy|
+|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/584find_customer_referee.sql)|Easy|
+|586|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/586customer_placing_the_largest_number_of_orders.sql)|Easy|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/589n-ary_tree_preorder_traversal.py)|Easy|
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/590n-ary_tree_postorder_traversal.py)|Easy|
+|594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/594longest_harmonious_subsequence.py)|Easy|
+|595|[Big Countries](https://leetcode.com/problems/big-countries)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/595big_countries.sql)|Easy|
+|596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/596classes_more_than_5_students.sql)|Easy|
+|597|[Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/597friend_requests1_overall_acceptance_rate.sql)|Easy|
+|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/598range_addition2.py)|Easy|
+|599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/599minimum_index_sum_of_two_lists.py)|Easy|
+|603|[Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/603consecutive_available_seats.sql)|Easy|
+|604|[Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/604design_compressed_string_iterator.py)|Easy|
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/605can_place_flowers.py)|Easy|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/606construct_string_from_binary_tree.py)|Easy|
+|607|[Sales Person](https://leetcode.com/problems/sales-person)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/607sales_person.sql)|Easy|
+|610|[Triangle Judgement](https://leetcode.com/problems/triangle-judgement)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/610triangle_judgement.sql)|Easy|
+|613|[Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/613shortest_distance_in_a_line.sql)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/617merge_two_binary_trees.py)|Easy|
+|619|[Biggest Single Number](https://leetcode.com/problems/biggest-single-number)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/619biggest_single_number.sql)|Easy|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/620not_boring_movies.sql)|Easy|
+|624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays)|[Python](https://github.com/Apocrypse/LeetCode/blob/master/Python/624maximum_distance_in_arrays.py)|Easy|
+|627|[Swap Salary](https://leetcode.com/problems/swap-salary)|[SQL](https://github.com/Apocrypse/LeetCode/blob/master/SQL/627swap_salary.sql)|Easy|
