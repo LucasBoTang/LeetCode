@@ -48,6 +48,7 @@ My solutions for LeetCode:
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/053maximum_subarray.py)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/054spiral_matrix.py)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/055jump_game.py)|Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/056merge_intervals.py)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/058length_of_last_word.py)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/066plus_one.py)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/067add_binary.py)|Easy|
