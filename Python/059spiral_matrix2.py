@@ -10,7 +10,6 @@ class Solution:
 
         num = 1
         for l in range(layers):
-            print(l)
             # top
             for i in range(l, n-l-1):
                 result[l][i] = num
