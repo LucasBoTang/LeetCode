@@ -50,6 +50,7 @@ My solutions for LeetCode:
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/055jump_game.py)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/056merge_intervals.py)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/058length_of_last_word.py)|Easy|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/059spiral_matrix2.py)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/066plus_one.py)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/067add_binary.py)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/069sqrt(x).py)|Easy|
