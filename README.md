@@ -53,6 +53,7 @@ My solutions for LeetCode:
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/059spiral_matrix2.py)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/060permutation_sequence.py)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/061rotate_list.py)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/062unique_paths.py)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/066plus_one.py)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/067add_binary.py)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/069sqrt(x).py)|Easy|
