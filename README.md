@@ -60,6 +60,7 @@ My solutions for LeetCode:
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/067add_binary.py)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/069sqrt(x).py)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/070climbing_stairs.py)|Easy|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/071simplify_path.py)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/078subset.py)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/083remove_duplicates_from_sorted_list.py)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/088merge_sorted_array.py)|Easy|
