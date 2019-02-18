@@ -66,6 +66,7 @@ My solutions for LeetCode:
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/075sort_colors.py)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/077combinations.py)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/078subset.py)|Medium|
+|79|[Word Search](https://leetcode.com/problems/word-search)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/079word_search.py)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/083remove_duplicates_from_sorted_list.py)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/088merge_sorted_array.py)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/100same_tree.py)|Easy|
