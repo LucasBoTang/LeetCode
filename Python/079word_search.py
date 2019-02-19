@@ -21,6 +21,14 @@ class Solution(object):
 
     def dfs(self, board, word, i, j, m, n, visited):
         """
+        :type board: List[List[str]]
+        :type word: str
+        :type i: int
+        :type j: int
+        :type m: int
+        :type n: int
+        :type visited: List[List[bool]]
+        :rtype: bool
         """
 
         visited[i][j] = True
