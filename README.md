@@ -69,6 +69,7 @@ My solutions for LeetCode:
 |79|[Word Search](https://leetcode.com/problems/word-search)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/079word_search.py)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/080remove_duplicates_from_sorted_array2.py)|Medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/081search_in_rotated_sorted_array2.py)|Medium|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/082remove_duplicates_from_sorted_list2.py)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/083remove_duplicates_from_sorted_list.py)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/088merge_sorted_array.py)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/100same_tree.py)|Easy|
