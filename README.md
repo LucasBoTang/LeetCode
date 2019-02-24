@@ -73,6 +73,7 @@ My solutions for LeetCode:
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/083remove_duplicates_from_sorted_list.py)|Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/086partition_list.py)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/088merge_sorted_array.py)|Easy|
+|89|[Gray Code](https://leetcode.com/problems/gray-code)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/089gray_code.py)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/100same_tree.py)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/101symmetric_tree.py)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/102binary_tree_level_order_traversal.py)|Medium|
