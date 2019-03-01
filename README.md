@@ -75,6 +75,7 @@ My solutions for LeetCode:
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/088merge_sorted_array.py)|Easy|
 |89|[Gray Code](https://leetcode.com/problems/gray-code)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/089gray_code.py)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/090subsets2.py)|Medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/091decode_ways.py)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/100same_tree.py)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/101symmetric_tree.py)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/102binary_tree_level_order_traversal.py)|Medium|
