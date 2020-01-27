@@ -190,6 +190,7 @@ My solutions for LeetCode:
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/459repeated_substring_pattern.py)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/461hamming_distance.py)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/463island_perimeter.py)|Easy|
+|468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/468validate_ip_address.py)|Medium|
 |475|[Heaters](https://leetcode.com/problems/heaters)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/475heaters.py)|Easy|
 |476|[Number Complement](https://leetcode.com/problems/number-complement)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/476number_complement.py)|Easy|
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/479largest_palindrome_product.py)|Easy|
