@@ -11,16 +11,17 @@ class Solution:
         :type root: TreeNode
         :rtype: List[List[int]]
         """
+        res = []
         if not root:
-            return []
-        branches, nodes = [root], []
-        while branches:
-            nodes.insert(0, [branch.val for branch in branches])
-            subbranches = []
-            for branch in branches:
-                if branch.left:
-                    subbranches.append(branch.left)
-                if branch.right:
-                    subbranches.append(branch.right)
-            branches = subbranches
-        return nodes
+            return res
+        queue = [root]
+        while queue:
+            res.insert(0, [node.val for node in queue])
+            new_queue = []
+            for node in queue:
+                if node.left:
+                    new_queue.append(node.left)
+                if node.right:
+                    new_queue.append(node.right)
+            queue = new_queue
+        return res
