@@ -264,4 +264,5 @@ My solutions for LeetCode:
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/690employee_importance.py)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/693binary_number_with_alternating_bits.py)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/695max_area_of_island.py)|Easy|
-|696|[Count Binary Substrings ](https://leetcode.com/problems/count-binary-substrings)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/696count_binary_substrings.py)|Easy|
+|696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/696count_binary_substrings.py)|Easy|
+|987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/987vertical_order_traversal_of_a_binary_tree.py)|Medium|
