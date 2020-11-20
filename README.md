@@ -97,6 +97,7 @@ My solutions for LeetCode:
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/136single_number.py)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/141linked_list_cycle.py)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/144binary_tree_preorder_traversal.py)|Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/148sort_list.py)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/155min_stack.py)|Easy|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/157read_n_characters_given_read4.py)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/160intersection_of_two_linked_lists.py)|Easy|
