@@ -4,26 +4,6 @@
 #         self.val = x
 #         self.next = None
 
-'''
-class Solution:
-    def hasCycle(self, head):
-        """
-        :type head: ListNode
-        :rtype: bool
-        """
-        if not head:
-            return False
-        hash = {head}
-        cur = head.next
-        while cur:
-            if cur in hash:
-                return True
-            hash.add(cur)
-            cur = cur.next
-        return False
-'''
-
-# solving it without using extra space
 class Solution:
     def hasCycle(self, head):
         """
