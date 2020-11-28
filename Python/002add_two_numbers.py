@@ -11,23 +11,21 @@ class Solution:
         :type l2: ListNode
         :rtype: ListNode
         """
+        dummy = ListNode(None)
+        cur = dummy
 
-        dummy = cur = ListNode('i')
         carry = 0
-
         while l1 or l2:
-            val = 0
-
+            digit = carry
             if l1:
-                val += l1.val
+                digit += l1.val
                 l1 = l1.next
             if l2:
-                val += l2.val
+                digit += l2.val
                 l2 = l2.next
-            val += carry
-
-            carry = val // 10
-            cur.next = ListNode(val%10)
+            print(digit)
+            cur.next = ListNode(digit % 10)
+            carry = digit // 10
             cur = cur.next
 
         if carry:
