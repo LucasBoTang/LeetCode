@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def maxDistance(self, arrays):
         """
         :type arrays: List[List[int]]

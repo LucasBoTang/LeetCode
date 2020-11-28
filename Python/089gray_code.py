@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def grayCode(self, n):
         """
         :type n: int

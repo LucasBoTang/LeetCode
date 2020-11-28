@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def judgeSquareSum(self, c):
         """
         :type c: int

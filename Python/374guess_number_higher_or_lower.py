@@ -3,7 +3,7 @@
 # @return -1 if my number is lower, 1 if my number is higher, otherwise return 0
 # def guess(num):
 
-class Solution(object):
+class Solution:
     def guessNumber(self, n):
         """
         :type n: int

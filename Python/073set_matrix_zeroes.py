@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def setZeroes(self, matrix):
         """
         :type matrix: List[List[int]]

@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def restoreIpAddresses(self, s):
         """
         :type s: str

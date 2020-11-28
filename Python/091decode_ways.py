@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def numDecodings(self, s):
         """
         :type s: str
@@ -18,4 +18,3 @@ class Solution(object):
                 table[i] += table[i-2]
 
         return table[-1]
-        

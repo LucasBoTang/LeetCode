@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def validTree(self, n, edges):
         """
         :type n: int

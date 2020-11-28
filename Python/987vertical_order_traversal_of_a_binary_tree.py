@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution(object):
+class Solution:
     def verticalTraversal(self, root):
         """
         :type root: TreeNode

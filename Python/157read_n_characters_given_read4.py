@@ -3,7 +3,7 @@
 # @return an integer
 # def read4(buf):
 
-class Solution(object):
+class Solution:
     def read(self, buf, n):
         """
         :type buf: Destination buffer (List[str])

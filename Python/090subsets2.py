@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def subsetsWithDup(self, nums):
         """
         :type nums: List[int]

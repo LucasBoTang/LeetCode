@@ -1,5 +1,5 @@
 # Definition for a binary tree node.
-# class TreeNode(object):
+# class TreeNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.left = None
@@ -7,7 +7,7 @@
 
 '''
 # Recursion
-class Solution(object):
+class Solution:
     def preorderTraversal(self, root):
         """
         :type root: TreeNode
@@ -29,7 +29,7 @@ class Solution(object):
 '''
 
 # iteration
-class Solution(object):
+class Solution:
     def preorderTraversal(self, root):
         """
         :type root: TreeNode

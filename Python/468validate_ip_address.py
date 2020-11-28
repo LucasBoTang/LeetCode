@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def validIPAddress(self, IP):
         """
         :type IP: str
