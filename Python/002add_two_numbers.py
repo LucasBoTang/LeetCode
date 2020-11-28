@@ -23,7 +23,6 @@ class Solution:
             if l2:
                 digit += l2.val
                 l2 = l2.next
-            print(digit)
             cur.next = ListNode(digit % 10)
             carry = digit // 10
             cur = cur.next
