@@ -11,18 +11,15 @@ class Solution:
         :type n: int
         :rtype: ListNode
         """
-
-        dummy = ListNode('i')
-        dummy.next = head
-
+        dummy = ListNode(None, head)
         first = second = dummy
+
         for i in range(n):
             second = second.next
 
         while second.next:
             first = first.next
             second = second.next
-
         first.next = first.next.next
 
         return dummy.next
