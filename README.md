@@ -268,3 +268,4 @@ My solutions for LeetCode:
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/987vertical_order_traversal_of_a_binary_tree.py)|Medium|
 |1492|[the kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1492the_kth_factor_of_n)|Medium|
 |2405|[Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/2405optimal_partition_of_string.py)|Medium|
+|2534|[Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/2534time_taken_to_cross_the_door.py)|Medium|
