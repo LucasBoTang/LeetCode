@@ -269,4 +269,4 @@ My solutions for LeetCode:
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1492the_kth_factor_of_n)|Medium|
 |1676|[Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1676lowest_common_ancestor_of_a_binary_tree4.py)|Medium|
 |2405|[Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/2405optimal_partition_of_string.py)|Medium|
-|2534|[Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/2534time_taken_to_cross_the_door.py)|Medium|
+|2534|[Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/2534time_taken_to_cross_the_door.py)|Hard|
