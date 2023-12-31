@@ -19,7 +19,7 @@ class Solution(object):
         :rtype: int
         """
         # base case
-        if root is None:
+        if not root:
             return 0
         # recursion case
         left_depth = self.maxDepth(root.left)
