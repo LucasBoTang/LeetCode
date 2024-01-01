@@ -268,6 +268,7 @@ My solutions for LeetCode:
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/693binary_number_with_alternating_bits.py)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/695max_area_of_island.py)|Easy|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/696count_binary_substrings.py)|Easy|
+|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/713subarray_product_less_than_k.py)|Medium|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/987vertical_order_traversal_of_a_binary_tree.py)|Medium|
 |1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1151minimum_swaps_to_group_all_1s_together.py)|Medium|
 |1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1197minimum_knight_moves.py)|Medium|
