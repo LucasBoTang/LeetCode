@@ -6,8 +6,6 @@ class Solution(object):
         :type minutes: int
         :rtype: int
         """
-        # addtional customers that can be satisfied
-        additional_satisfied = [g * c for c, g in zip(customers, grumpy)]
         # init slide window
         cur_satisfied = 0
         for i in range(len(customers)):
@@ -21,10 +19,13 @@ class Solution(object):
         max_satisfied = cur_satisfied
         # slide window
         for i in range(minutes, len(customers)):
+            start, end = i - minutes, i
             # left
-            cur_satisfied -= additional_satisfied[i - minutes]
+            if grumpy[start]:
+                cur_satisfied -= customers[start]
             # right
-            cur_satisfied += additional_satisfied[i]
+            if grumpy[end]:
+                cur_satisfied += customers[end]
             # find max
             max_satisfied = max(max_satisfied, cur_satisfied)
         return max_satisfied
