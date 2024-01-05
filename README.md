@@ -273,7 +273,8 @@ My solutions for LeetCode:
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/987vertical_order_traversal_of_a_binary_tree.py)|Medium|
 |1052|[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1052grumpy_bookstore_owner.py)|Medium|
 |1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1151minimum_swaps_to_group_all_1s_together.py)|Medium|
-|1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1197minimum_knight_moves.py)|Medium|
+|1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1197minimum_knight_moves.py)|Medium|
+|1245|[Tree Diameter](https://leetcode.com/problems/tree-diameter)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1245tree_diameter.py)|Medium|
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1492the_kth_factor_of_n)|Medium|
 |1676|[Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/1676lowest_common_ancestor_of_a_binary_tree4.py)|Medium|
 |2355|[Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take)|[~~Python~~](https://leetcode.com/problems/maximum-number-of-books-you-can-take)|Hard|
