@@ -119,6 +119,7 @@ My solutions for LeetCode:
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)|[SQL](https://github.com/LucasBoTang/LeetCode/blob/master/SQL/196delete_duplicate_emails.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature)|[SQL](https://github.com/LucasBoTang/LeetCode/blob/master/SQL/197rising_temperature.sql)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/198house_robber.py)|Easy|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/200number_of_islands.py)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/202happy_number.py)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/203remove_linked_list_elements.py)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/204count_primes.py)|Easy|
