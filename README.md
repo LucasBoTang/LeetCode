@@ -179,6 +179,7 @@ My solutions for LeetCode:
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/412fizz_buzz.py)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/414third_xaximum_number.py)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/415add_strings.py)|Easy|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/416partition_equal_subset_sum.py)|Medium|
 |422|[Valid Word Square](https://leetcode.com/problems/valid-word-square)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/422valid_word_square.py)|Easy|
 |427|[Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/427construct_quad_tree.py)|Easy|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/429n-ary_tree_level_order_traversal.py)|Easy|
