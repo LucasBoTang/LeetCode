@@ -1,10 +1,12 @@
-class Solution:
+class Solution(object):
     def climbStairs(self, n):
         """
         :type n: int
         :rtype: int
         """
-        a, b = 1, 1
-        for _ in range(n):
-            a, b = b, a + b
-        return a
+        # init ways from 1 step
+        prev_ways, cur_ways = 1, 1
+        # climb to the top
+        for _ in range(n - 1):
+            prev_ways, cur_ways = cur_ways, prev_ways + cur_ways
+        return cur_ways
