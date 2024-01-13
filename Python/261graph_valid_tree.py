@@ -27,9 +27,13 @@ class UnionFind(object):
     
     def find(self, i):
         # find root node
-        while self.parent[i] is not None:
-            i = self.parent[i]
-        return i
+        root = i
+        while self.parent[root] is not None:
+            root = self.parent[root]
+        # path campact
+        while i != root:
+            self.parent[i], i = root, self.parent[i]
+        return root
 
     def union(self, i, j):
         # merge i and j as a connected component
