@@ -18,7 +18,8 @@ class Solution(object):
                 return False
         # no cycle
         return True
-        
+
+
 class UnionFind(object):
     def __init__(self, n):
         # init a hash map of parants (as list)
