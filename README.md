@@ -154,6 +154,7 @@ My solutions for LeetCode:
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/292nim_game.py)|Easy|
 |293|[Flip Game](https://leetcode.com/problems/flip-game)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/293flip_game.py)|Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/303range_sum_query-immutable.py)|Easy|
+|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/323number_of_connected_components_in_an_undirected_graph.py)|Medium|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/)|[Pyhon](https://github.com/LucasBoTang/LeetCode/blob/master/Python/325maximum_size_subarray_sum_equals_k.py)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/326power_of_three.py)|Easy|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/339nested_list_weight_sum.py)|Easy|
