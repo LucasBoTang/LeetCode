@@ -1,29 +1,42 @@
-class Solution:
+class Solution(object):
     def validTree(self, n, edges):
         """
         :type n: int
         :type edges: List[List[int]]
         :rtype: bool
         """
+        # tree must contain n - 1 edges
         if len(edges) != n - 1:
             return False
+        # init union find
+        uf = UnionFind(n)
+        # add each edge
+        for i, j in edges:
+            uf.union(i, j)
+            # check cycle
+            if uf.is_cycle:
+                return False
+        # no cycle
+        return True
+        
+class UnionFind(object):
+    def __init__(self, n):
+        # init a hash map of parants (as list)
+        self.parent = [None] * n
+        self.is_cycle = False
+    
+    def find(self, i):
+        # find root node
+        while self.parent[i] is not None:
+            i = self.parent[i]
+        return i
 
-        graph = {i: set() for i in range(n)}
-        for j, k in edges:
-            graph[j].add(k)
-            graph[k].add(j)
-
-        queue = [0]
-        hash = {0}
-
-        while queue:
-            new_queue = []
-            for node in queue:
-                for neighbor in graph[node]:
-                    if neighbor in hash:
-                        continue
-                    hash.add(neighbor)
-                    new_queue.append(neighbor)
-            queue = new_queue
-
-        return len(hash) == n
+    def union(self, i, j):
+        # merge i and j as a connected component
+        root_i, root_j = self.find(i), self.find(j)
+        # i and j has already been connected
+        if root_i == root_j:
+            self.is_cycle = True
+        # merge i and j
+        else:
+            self.parent[root_i] = root_j
