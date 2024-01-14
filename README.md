@@ -125,6 +125,7 @@ My solutions for LeetCode:
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/204count_primes.py)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/205isomorphic_strings.py)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/206reverse_linked_list.py)|Easy|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/208implement_trie_prefix_tree.py)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/209minimum_size_subarray_sum.py)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/217contains_duplicate.py)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Python](https://github.com/LucasBoTang/LeetCode/blob/master/Python/219contains_duplicate2.py)|Easy|
