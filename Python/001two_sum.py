@@ -1,7 +1,17 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+ class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        # init hash map
         nums_dict = {}
-        for ind, num in enumerate(nums):
-            if target - num in nums_dict:
-                return nums_dict[target - num], ind
-            nums_dict[num] = ind
+        # each element and indice
+        for i, n in enumerate(nums):
+            # two sum equals to target
+            if target - n in nums_dict:
+                # index
+                return nums_dict[target - n], i
+            # record element and indice
+            nums_dict[n] = i
